@@ -4,10 +4,10 @@ This project involves a comprehensive analysis of a flight reservation system us
  ## Tool Used:
  MySQL
  ## Tables Used:
- Airlines 
- Flights 
-Passengers 
-Bookings
+ Airlines ,
+ Flights ,
+Passengers ,
+Bookings,
 Payments
 ## Queries of the Project :
 Q1:What is the name of the airline with the most flights?
